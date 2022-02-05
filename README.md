@@ -12,7 +12,14 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+### HOME PAGE
+![OUTPUT](./1.JPG)
+### ABOUT US
+![OUTPUT](./2.JPG)
+### TRAINING
+![OUTPUT](./3.JPG)
+
+
 
 
 ## Result:
