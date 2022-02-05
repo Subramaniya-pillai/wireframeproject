@@ -14,9 +14,9 @@ Write your design steps here
 ## OUTPUT:
 ### HOME PAGE
 ![OUTPUT](./1.JPG)
-### ABOUT US
+### ABOUT US:
 ![OUTPUT](./2.JPG)
-### TRAINING
+### TRAINING:
 ![OUTPUT](./3.JPG)
 
 
