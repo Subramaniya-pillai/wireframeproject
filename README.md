@@ -13,11 +13,11 @@ Write your design steps here
 
 ## OUTPUT:
 ### HOME PAGE
-![OUTPUT](./1.JPG)
+![OUTPUT](./1.jpg)
 ### ABOUT US:
-![OUTPUT](./2.JPG)
+![OUTPUT](./2.jpg)
 ### TRAINING:
-![OUTPUT](./3.JPG)
+![OUTPUT](./3.jpg)
 
 
 
